@@ -22,7 +22,10 @@ Sistem monitoring \& analitik penggunaan listrik dan air berbasis cloud.
 
 \## Teknologi
 
-- IoT: Python + paho-mqtt
-- Cloud: Firebase Realtime Database
-- Frontend: React.js + Recharts
-- ML: scikit-learn, pandas, numpy
+\- IoT: Python + paho-mqtt
+
+\- Cloud: Firebase Realtime Database
+
+\- Frontend: React.js + Recharts
+
+\- ML: scikit-learn, pandas, numpy
